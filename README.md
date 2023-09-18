@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Benedict Alicea. I'm a Senior in high school taking programming classes at a community college.
+I am working with Unity and C# to develop two of my own video games by the end of the semester.
+I am very new to programming, and I hope to have some projects here by the end of the semester.
 
 <!--
 **benalicea06/benalicea06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
